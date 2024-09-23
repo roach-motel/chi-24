@@ -36,8 +36,7 @@ regulatory changes.
 - **United States/Texas**: https://github.com/roach-motel/chi-24/tree/main/videos/cancel/US-TX
 - **United States/California**: https://github.com/roach-motel/chi-24/tree/main/videos/cancel/US-CA
 
-### Subscription videos: TBD
-### Emails: TBD
+### Subscription videos: Send email to the PI to get access. 
 
 # Authors:
 - **Ashley Sheil** - Maynooth University, Ireland (ASHLEY.SHEIL.2020@MUMAIL.IE)
